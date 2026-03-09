@@ -1,0 +1,27 @@
+# Logs
+logs/
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Testing
+/coverage
+
+# Distribution directory
+/dist
+/build/
+
+# Misc
+.DS_Store
+*.pem
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
